@@ -1,0 +1,420 @@
+{
+  "app_name": "S!d!madtv-Stb-v1",
+  "export_date": "2026-06-09T01:17:46.831543",
+  "hostname": "http://tkosportz.live:25461/c",
+  "mac_address": "00:1A:79:E5:A5:BC",
+  "media_player": "C:/Program Files/mpv.net/mpvnet.exe",
+  "media_players": [
+    "C:/Program Files (x86)/VideoLAN/VLC/vlc.exe",
+    "C:/Program Files/mpv.net/mpvnet.exe"
+  ],
+  "threads": 5,
+  "playlists": {
+    "Live": [
+      {
+        "name": "01. PPV EVENTS / RACING (ET)",
+        "category_type": "IPTV",
+        "category_id": "79"
+      },
+      {
+        "name": "01. PPV FIGHTS/WWE (ET)",
+        "category_type": "IPTV",
+        "category_id": "196"
+      },
+      {
+        "name": "02. USA CABLE  TV #1",
+        "category_type": "IPTV",
+        "category_id": "76"
+      },
+      {
+        "name": "03. MOVIE CHANNELS",
+        "category_type": "IPTV",
+        "category_id": "82"
+      },
+      {
+        "name": "04. KY-TN  LOCALS",
+        "category_type": "IPTV",
+        "category_id": "81"
+      },
+      {
+        "name": "05. CARTOONS",
+        "category_type": "IPTV",
+        "category_id": "3"
+      },
+      {
+        "name": "06. NEWS ",
+        "category_type": "IPTV",
+        "category_id": "153"
+      },
+      {
+        "name": "09.  24-7 #4",
+        "category_type": "IPTV",
+        "category_id": "106"
+      },
+      {
+        "name": "09. 24-7 #1",
+        "category_type": "IPTV",
+        "category_id": "263"
+      },
+      {
+        "name": "09. 24-7 #2",
+        "category_type": "IPTV",
+        "category_id": "267"
+      },
+      {
+        "name": "09. 24-7 #3",
+        "category_type": "IPTV",
+        "category_id": "270"
+      },
+      {
+        "name": "09. 24-7 #5",
+        "category_type": "IPTV",
+        "category_id": "261"
+      },
+      {
+        "name": "09. 24-7 #6",
+        "category_type": "IPTV",
+        "category_id": "271"
+      },
+      {
+        "name": "16. LOCALS VIP",
+        "category_type": "IPTV",
+        "category_id": "273"
+      },
+      {
+        "name": "17. LOCALS BY STATE ",
+        "category_type": "IPTV",
+        "category_id": "209"
+      },
+      {
+        "name": "19. LATIN / SPANISH",
+        "category_type": "IPTV",
+        "category_id": "210"
+      },
+      {
+        "name": "20. USA SPORTS -ESPN",
+        "category_type": "IPTV",
+        "category_id": "174"
+      },
+      {
+        "name": "21. FANDUAL/SPECTRUM SPORTS",
+        "category_type": "IPTV",
+        "category_id": "20"
+      },
+      {
+        "name": "26. NFL TICKET",
+        "category_type": "IPTV",
+        "category_id": "146"
+      },
+      {
+        "name": "26.1 NCAA BASKETBALL (ET)",
+        "category_type": "IPTV",
+        "category_id": "215"
+      },
+      {
+        "name": "26.2 NCAA FOOTBALL (ET)",
+        "category_type": "IPTV",
+        "category_id": "193"
+      },
+      {
+        "name": "27. WNBA",
+        "category_type": "IPTV",
+        "category_id": "204"
+      },
+      {
+        "name": "27.1 NBA TEAM FEEDS",
+        "category_type": "IPTV",
+        "category_id": "226"
+      },
+      {
+        "name": "28. NHL",
+        "category_type": "IPTV",
+        "category_id": "225"
+      },
+      {
+        "name": "29. MLB TEAM FEEDS",
+        "category_type": "IPTV",
+        "category_id": "229"
+      },
+      {
+        "name": "30. MLS EASTERN (SOCCER)",
+        "category_type": "IPTV",
+        "category_id": "83"
+      },
+      {
+        "name": "30. MLS WESTERN (SOCCER)",
+        "category_type": "IPTV",
+        "category_id": "272"
+      },
+      {
+        "name": "33. RELIGIOUS",
+        "category_type": "IPTV",
+        "category_id": "157"
+      },
+      {
+        "name": "35. CANADA",
+        "category_type": "IPTV",
+        "category_id": "262"
+      },
+      {
+        "name": "37. COLUMBIA",
+        "category_type": "IPTV",
+        "category_id": "264"
+      },
+      {
+        "name": "96. ADULT ",
+        "category_type": "IPTV",
+        "category_id": "10"
+      },
+      {
+        "name": "All",
+        "category_type": "IPTV",
+        "category_id": "*"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "4K MOVIES  ( needs fast net )",
+        "category_type": "VOD",
+        "category_id": "140"
+      },
+      {
+        "name": "ACTION",
+        "category_type": "VOD",
+        "category_id": "38"
+      },
+      {
+        "name": "All",
+        "category_type": "VOD",
+        "category_id": "*"
+      },
+      {
+        "name": "BLOCKBUSTERS",
+        "category_type": "VOD",
+        "category_id": "17"
+      },
+      {
+        "name": "CHRISTMAS-HALLMARK",
+        "category_type": "VOD",
+        "category_id": "208"
+      },
+      {
+        "name": "CLASSICS",
+        "category_type": "VOD",
+        "category_id": "62"
+      },
+      {
+        "name": "COMEDY",
+        "category_type": "VOD",
+        "category_id": "16"
+      },
+      {
+        "name": "CRIME - MYSTERY-THRILLER",
+        "category_type": "VOD",
+        "category_id": "98"
+      },
+      {
+        "name": "DISCOVERY PLUS",
+        "category_type": "VOD",
+        "category_id": "202"
+      },
+      {
+        "name": "DISNEY PLUS",
+        "category_type": "VOD",
+        "category_id": "203"
+      },
+      {
+        "name": "DRAMA - ROMANCE",
+        "category_type": "VOD",
+        "category_id": "14"
+      },
+      {
+        "name": "Documentary Films",
+        "category_type": "VOD",
+        "category_id": "104"
+      },
+      {
+        "name": "ELVIS",
+        "category_type": "VOD",
+        "category_id": "185"
+      },
+      {
+        "name": "HORROR",
+        "category_type": "VOD",
+        "category_id": "13"
+      },
+      {
+        "name": "KIDS-FAMILY",
+        "category_type": "VOD",
+        "category_id": "35"
+      },
+      {
+        "name": "MUSIC",
+        "category_type": "VOD",
+        "category_id": "105"
+      },
+      {
+        "name": "NEW RELEASE",
+        "category_type": "VOD",
+        "category_id": "42"
+      },
+      {
+        "name": "P90X EXERCISE VIDEOS",
+        "category_type": "VOD",
+        "category_id": "71"
+      },
+      {
+        "name": "RELIGION-CHRISTIAN",
+        "category_type": "VOD",
+        "category_id": "30"
+      },
+      {
+        "name": "STEPHEN KING COLLECTION",
+        "category_type": "VOD",
+        "category_id": "143"
+      },
+      {
+        "name": "SUPERHEROS/MARVEL/DC",
+        "category_type": "VOD",
+        "category_id": "148"
+      },
+      {
+        "name": "SY-FY",
+        "category_type": "VOD",
+        "category_id": "15"
+      },
+      {
+        "name": "WAR - WESTERNS",
+        "category_type": "VOD",
+        "category_id": "92"
+      },
+      {
+        "name": "WWE COLLECTION",
+        "category_type": "VOD",
+        "category_id": "201"
+      }
+    ],
+    "Series": [
+      {
+        "name": "APPLE",
+        "category_type": "Series",
+        "category_id": "274"
+      },
+      {
+        "name": "Action",
+        "category_type": "Series",
+        "category_id": "232"
+      },
+      {
+        "name": "Action & Adventure",
+        "category_type": "Series",
+        "category_id": "234"
+      },
+      {
+        "name": "All",
+        "category_type": "Series",
+        "category_id": "*"
+      },
+      {
+        "name": "Animation",
+        "category_type": "Series",
+        "category_id": "236"
+      },
+      {
+        "name": "Comedy",
+        "category_type": "Series",
+        "category_id": "237"
+      },
+      {
+        "name": "Crime",
+        "category_type": "Series",
+        "category_id": "238"
+      },
+      {
+        "name": "Documentary",
+        "category_type": "Series",
+        "category_id": "239"
+      },
+      {
+        "name": "Drama",
+        "category_type": "Series",
+        "category_id": "240"
+      },
+      {
+        "name": "Family",
+        "category_type": "Series",
+        "category_id": "241"
+      },
+      {
+        "name": "HALLMARK",
+        "category_type": "Series",
+        "category_id": "278"
+      },
+      {
+        "name": "HBO MAX",
+        "category_type": "Series",
+        "category_id": "277"
+      },
+      {
+        "name": "Kids",
+        "category_type": "Series",
+        "category_id": "245"
+      },
+      {
+        "name": "Mystery",
+        "category_type": "Series",
+        "category_id": "247"
+      },
+      {
+        "name": "NETFLIX",
+        "category_type": "Series",
+        "category_id": "276"
+      },
+      {
+        "name": "News",
+        "category_type": "Series",
+        "category_id": "249"
+      },
+      {
+        "name": "PARAMOUNT",
+        "category_type": "Series",
+        "category_id": "275"
+      },
+      {
+        "name": "PEACOCK",
+        "category_type": "Series",
+        "category_id": "279"
+      },
+      {
+        "name": "Reality",
+        "category_type": "Series",
+        "category_id": "250"
+      },
+      {
+        "name": "Sci-Fi & Fantasy",
+        "category_type": "Series",
+        "category_id": "252"
+      },
+      {
+        "name": "Science Fiction",
+        "category_type": "Series",
+        "category_id": "255"
+      },
+      {
+        "name": "Soap",
+        "category_type": "Series",
+        "category_id": "253"
+      },
+      {
+        "name": "War & Politics",
+        "category_type": "Series",
+        "category_id": "258"
+      },
+      {
+        "name": "Western",
+        "category_type": "Series",
+        "category_id": "260"
+      }
+    ]
+  }
+}
